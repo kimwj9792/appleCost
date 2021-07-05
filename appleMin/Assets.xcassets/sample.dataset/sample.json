@@ -1,0 +1,173 @@
+{
+  "airpods": [
+    {
+      "imageURL": "https://thumbnail7.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2019/11/07/18/8/4febc558-85b2-48a8-816e-0940180702df.jpg",
+      "name": "에어팟 프로",
+      "currentPrice": 236040,
+      "highPrice": 236040,
+      "lowPrice": 235900,
+      "date": [
+        "2021-05-15",
+        "2021-05-22"
+      ],
+      "price": [
+        235900,
+        236040
+      ]
+    },
+    {
+      "imageURL": "https://thumbnail9.coupangcdn.com/thumbnails/remote/492x492ex/image/product/image/vendoritem/2019/09/02/4643936599/1d600ddf-f0ca-4f91-b62e-d1d86797451d.jpg",
+      "name": "에어팟 2 유선",
+      "currentPrice": 144770,
+      "highPrice": 144860,
+      "lowPrice": 144770,
+      "date": [
+        "2021-05-15",
+        "2021-05-22"
+      ],
+      "price": [
+        144860,
+        144770
+      ]
+    },
+    {
+      "imageURL": "https://thumbnail10.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/872629760195-a8609d2a-6df8-4318-84a2-d6a099c5b09a.jpg",
+      "name": "에어팟 2 무선",
+      "currentPrice": 191450,
+      "highPrice": 191450,
+      "lowPrice": 184900,
+      "date": [
+        "2021-05-15",
+        "2021-05-22"
+      ],
+      "price": [
+        184900,
+        191450
+      ]
+    },
+    {
+      "imageURL": "https://thumbnail6.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/218005008681-0735e1ea-25ea-4d80-b172-74d4cfee0812.jpg",
+      "name": "에어팟 맥스",
+      "currentPrice": 588050,
+      "highPrice": 599000,
+      "lowPrice": 588050,
+      "date": [
+        "2021-05-15",
+        "2021-05-22"
+      ],
+      "price": [
+        599000,
+        588050
+      ]
+    }
+  ],
+  "accessories": [
+    {
+      "imageURL": "https://thumbnail9.coupangcdn.com/thumbnails/remote/492x492ex/image/product/image/vendoritem/2019/01/02/3098294156/ba8b703d-83be-479a-b75e-90461bcfb81e.jpg",
+      "name": "매직 트랙패드 실버",
+      "currentPrice": 135480,
+      "highPrice": 135480,
+      "lowPrice": 135230,
+      "date": [
+        "2021-05-15",
+        "2021-05-22"
+      ],
+      "price": [
+        135230,
+        135480
+      ]
+    },
+    {
+      "imageURL": "https://thumbnail8.coupangcdn.com/thumbnails/remote/492x492ex/image/product/image/vendoritem/2018/12/12/3887465154/83cbb260-5fbe-4a98-b654-6be92f70cd78.jpg",
+      "name": "매직 트랙패드 스페이스그레이",
+      "currentPrice": 160740,
+      "highPrice": 164000,
+      "lowPrice": 160740,
+      "date": [
+        "2021-05-15",
+        "2021-05-22"
+      ],
+      "price": [
+        164000,
+        160740
+      ]
+    },
+    {
+      "imageURL": "https://thumbnail7.coupangcdn.com/thumbnails/remote/492x492ex/image/product/image/vendoritem/2019/03/20/3098294155/20f416cb-55c3-4c49-9044-83895cf16c32.jpg",
+      "name": "매직 마우스 실버",
+      "currentPrice": 87380,
+      "highPrice": 87380,
+      "lowPrice": 85990,
+      "date": [
+        "2021-05-15",
+        "2021-05-22"
+      ],
+      "price": [
+        85990,
+        87380
+      ]
+    },
+    {
+      "imageURL": "https://thumbnail10.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2018/12/19/14/4/040dbf9d-c745-431a-8574-c7121415c24d.jpg",
+      "name": "매직 마우스 스페이스그레이",
+      "currentPrice": 112410,
+      "highPrice": 113790,
+      "lowPrice": 112410,
+      "date": [
+        "2021-05-15",
+        "2021-05-22"
+      ],
+      "price": [
+        113790,
+        112410
+      ]
+    }
+  ],
+  "chargers": [
+    {
+      "imageURL": "https://thumbnail10.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2020/10/20/18/3/b0531fc9-925e-4094-a0f2-6f4778a65223.jpeg",
+      "name": "20W 충전기",
+      "currentPrice": 22900,
+      "highPrice": 23350,
+      "lowPrice": 22900,
+      "date": [
+        "2021-05-15",
+        "2021-05-22"
+      ],
+      "price": [
+        23350,
+        22900
+      ]
+    },
+    {
+      "imageURL": "https://thumbnail7.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/1563610391825773-8a66f41a-a03d-4aa6-9553-61b78091040e.jpg",
+      "name": "30W 충전기",
+      "currentPrice": 52830,
+      "highPrice": 52830,
+      "lowPrice": 51550,
+      "date": [
+        "2021-05-15",
+        "2021-05-22"
+      ],
+      "price": [
+        51550,
+        52830
+      ]
+    },
+    {
+      "imageURL": "https://thumbnail9.coupangcdn.com/thumbnails/remote/492x492ex/image/product/image/vendoritem/2017/12/26/3014133465/3b6236e7-8cf0-4cc3-a688-b34da90e20e4.jpg",
+      "name": "5W 충전기",
+      "currentPrice": 22250,
+      "highPrice": 22250,
+      "lowPrice": 22250,
+      "date": [
+        "2021-05-15",
+        "2021-05-22"
+      ],
+      "price": [
+        22250,
+        22250
+      ]
+    }
+  ]
+}

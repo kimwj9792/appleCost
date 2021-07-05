@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "8C58DA9F-1449-4132-A6AD-D0961F354CD5"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6F3B4B46-408E-4386-AC0F-D63F741573C9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "appleMin/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "6F3B4B46-408E-4386-AC0F-D63F741573C9 - fd2e709efb44b2a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "appleMin.ViewController.tableView.getter : Swift.Optional&lt;__C.UITableView&gt;"
+                  moduleName = "appleMin"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wjkim/Desktop/swiftPrac/appleMin/appleMin/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "6F3B4B46-408E-4386-AC0F-D63F741573C9 - 9452e26e6986775e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "appleMin.ViewController.tableView.setter : Swift.Optional&lt;__C.UITableView&gt;"
+                  moduleName = "appleMin"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wjkim/Desktop/swiftPrac/appleMin/appleMin/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "155">
+               </Location>
+               <Location
+                  uuid = "6F3B4B46-408E-4386-AC0F-D63F741573C9 - 53730ab540fcf893"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "appleMin.ViewController.tableView.modify : Swift.Optional&lt;__C.UITableView&gt;"
+                  moduleName = "appleMin"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wjkim/Desktop/swiftPrac/appleMin/appleMin/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "6F3B4B46-408E-4386-AC0F-D63F741573C9 - 41176493e08b90f6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "appleMin.ViewController.tableView.modify : Swift.Optional&lt;__C.UITableView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "appleMin"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wjkim/Desktop/swiftPrac/appleMin/appleMin/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "6F3B4B46-408E-4386-AC0F-D63F741573C9 - 77cca1f4d74c69be"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "appleMin.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; appleMin.ViewController"
+                  moduleName = "appleMin"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wjkim/Desktop/swiftPrac/appleMin/appleMin/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "161">
+               </Location>
+               <Location
+                  uuid = "6F3B4B46-408E-4386-AC0F-D63F741573C9 - 74524b7f9f34008"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "appleMin.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;appleMin.ViewController&gt;"
+                  moduleName = "appleMin"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wjkim/Desktop/swiftPrac/appleMin/appleMin/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "117">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
